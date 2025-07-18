@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["Closest"],"macro":["coord","geometry_delegate_impl","line_string","point","polygon"],"mod":["algorithm","geometry","prelude"],"trait":["CoordFloat","CoordNum","GeoFloat","GeoNum"]};

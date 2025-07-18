@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["export","import"],"mod":["ext_repr"]};

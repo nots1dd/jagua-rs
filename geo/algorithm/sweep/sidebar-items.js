@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":["Intersections","LineOrPoint","SweepPoint"],"trait":["Cross"]};

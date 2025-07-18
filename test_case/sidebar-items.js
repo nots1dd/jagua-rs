@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"attr":["case","test_case","test_matrix"]};

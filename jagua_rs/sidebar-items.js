@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":["collision_detection","entities","geometry","io","probs","util"]};

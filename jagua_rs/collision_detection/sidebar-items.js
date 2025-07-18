@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":["hazards","quadtree"],"struct":["CDEConfig","CDESnapshot","CDEngine"]};

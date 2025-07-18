@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":["DrainIterator","IntersectionIterator","SelectionIterator","SelectionIteratorMut"],"type":["LocateAllAtPoint","LocateAllAtPointMut","LocateInEnvelope","LocateInEnvelopeIntersecting","LocateInEnvelopeIntersectingMut","LocateInEnvelopeMut","LocateWithinDistanceIterator","RTreeIterator","RTreeIteratorMut"]};

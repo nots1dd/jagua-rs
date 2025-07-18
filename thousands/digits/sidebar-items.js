@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":["ASCII_DECIMAL","ASCII_HEXADECIMAL"]};

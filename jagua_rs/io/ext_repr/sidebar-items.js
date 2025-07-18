@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["ExtShape"],"struct":["ExtContainer","ExtItem","ExtLayout","ExtPlacedItem","ExtPolygon","ExtQualityZone","ExtSPolygon","ExtTransformation"]};

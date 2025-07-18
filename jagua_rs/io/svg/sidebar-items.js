@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["layout_to_svg","s_layout_to_svg"],"struct":["Color","SvgDrawOptions","SvgLayoutTheme"]};

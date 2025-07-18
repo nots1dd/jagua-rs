@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["ShapeModifyMode"],"fn":["offset_shape","simplify_shape"],"struct":["ShapeModifyConfig"]};

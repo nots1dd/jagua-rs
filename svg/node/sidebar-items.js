@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"mod":["element"],"struct":["Blob","Comment","Text","Value"],"trait":["Node"],"type":["Attributes","Children"]};

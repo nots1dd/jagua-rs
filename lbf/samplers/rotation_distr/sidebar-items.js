@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["NormalRotDistr","UniformRotDistr"],"trait":["RotationSampler"]};

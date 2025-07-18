@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["normalize_rotation"],"mod":["convex_hull","fail_fast","geo_enums","geo_traits","primitives","shape_modification"],"struct":["DTransformation","OriginalShape","Transformation"]};

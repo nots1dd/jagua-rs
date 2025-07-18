@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["HazardEntity"],"mod":["collector","filter"],"struct":["HazKey","Hazard"]};

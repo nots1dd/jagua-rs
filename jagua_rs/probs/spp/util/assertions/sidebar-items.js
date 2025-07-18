@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["instance_item_ids_correct","problem_matches_solution"]};

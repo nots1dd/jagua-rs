@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":["HazKeyFilter","NoFilter"],"trait":["HazardFilter"]};

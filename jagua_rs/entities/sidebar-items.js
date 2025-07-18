@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":["N_QUALITIES"],"struct":["Container","InferiorQualityZone","Item","Layout","LayoutSnapshot","PItemKey","PlacedItem"],"trait":["Instance"]};

@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["QTHazPresence"],"struct":["QTHazard","QTNode"],"trait":["QTQueryable"]};
